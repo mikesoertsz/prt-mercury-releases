@@ -4,6 +4,16 @@
     <title>Mercury</title>
     <item>
       <title>Mercury 0.1.0-dev</title>
+      <pubDate>Mon, 19 Oct 2026 19:40:46 GMT</pubDate>
+      <sparkle:version>214602006</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-dev</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>development</sparkle:channel>
+      <description><![CDATA[mikesoertsz/prt-mercury-kit@c1cbc0f: Sync contracts]]></description>
+      <enclosure url="https://mikesoertsz.github.io/prt-mercury-releases/macos/Mercury-0.1.0-dev-214602006.zip" length="2793068" type="application/octet-stream" sparkle:edSignature="z9fh/72TV/HwrEXHFsl+ZdGI2/g3Rr5Ytgx3sRMa1JCSOdszgTMv4YYLFYzfHiElEpxe4fG7PZl9DN2vzeslBA=="/>
+    </item>
+    <item>
+      <title>Mercury 0.1.0-dev</title>
       <pubDate>Mon, 19 Oct 2026 19:40:16 GMT</pubDate>
       <sparkle:version>214601973</sparkle:version>
       <sparkle:shortVersionString>0.1.0-dev</sparkle:shortVersionString>
