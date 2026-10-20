@@ -4,6 +4,16 @@
     <title>Mercury</title>
     <item>
       <title>Mercury 0.1.0-dev</title>
+      <pubDate>Tue, 20 Oct 2026 08:17:48 GMT</pubDate>
+      <sparkle:version>214647234</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-dev</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>development</sparkle:channel>
+      <description><![CDATA[mikesoertsz/prt-mercury-macos@a21a0b9: APNs registration when the app is closed, gated by MERCURY_PUSH]]></description>
+      <enclosure url="https://mikesoertsz.github.io/prt-mercury-releases/macos/Mercury-0.1.0-dev-214647234.zip" length="34842606" type="application/octet-stream" sparkle:edSignature="eyYkY+Xj70U5C8D+MMBwVPsCUMqKU/7XwQOIXdIkmYOw+iSRjUsJYDv48Y+azOCxLEIMTtFL0N9V4KuvNj6bBQ=="/>
+    </item>
+    <item>
+      <title>Mercury 0.1.0-dev</title>
       <pubDate>Tue, 20 Oct 2026 07:52:43 GMT</pubDate>
       <sparkle:version>214645728</sparkle:version>
       <sparkle:shortVersionString>0.1.0-dev</sparkle:shortVersionString>
